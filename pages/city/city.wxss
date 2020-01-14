@@ -1,0 +1,13 @@
+/**index.wxss**/
+.city {padding: 3% 5%; background: yellowgreen; text-align: center;}
+.city text{font-size: 16px; color: green; }
+
+.citytable{ margin: 5%;}
+.province{ padding: 5px 10px;background: green;color: #fff;font-size: 14px; font-weight:bold; margin-top: 5%;}
+.province image{ float: right; width: 16px; height:16px;}
+.leadlist{ }
+.leader{ color: white; border-top:solid 1px #ccc; background: yellowgreen; padding: 5px 10px; font-size: 14px;  }
+.leader image{ float: right; width: 12px; height:12px; }
+.rotate{transform:rotate(90deg)}
+.citys{ border:solid 1px #eee;  }
+.cityname{ color: rgb(0, 204, 255); display: inline-block; margin: 5px;font-size: 12px;  }
